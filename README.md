@@ -20,8 +20,7 @@ you can download data from this link:
 <head>  
     <meta charset="UTF-8">  
     <meta name="viewport" content="width=device-width, initial-scale=1.0">  
-    <title>Share Google Drive Link</title>  
-    <script src="https://cdn.tailwindcss.com"></script>  
+    
 </head>  
 <body class="flex items-center justify-center h-screen bg-gray-100">  
     <a href="https://drive.google.com/drive/folders/1Fy3j-VgZfSH6LtrTS7Be1jIKYLvoecIP?usp=drive_link" target="_blank" class="bg-blue-500 text-white font-bold py-2 px-4 rounded hover:bg-blue-700 transition">  
@@ -29,6 +28,8 @@ you can download data from this link:
     </a>  
 </body>  
 </html>
+
+
 ## Objectives
 - Analyze player performance over time
 - Visualize match outcomes based on surface types
